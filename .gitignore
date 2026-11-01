@@ -1,0 +1,7 @@
+.pio/
+sdkconfig.esp32-s3-devkitc-1
+sdkconfig.esp32-s3-devkitc-1.old
+managed_components/
+.venv/
+__pycache__/
+*.pt
